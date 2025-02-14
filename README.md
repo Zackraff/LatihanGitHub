@@ -14,4 +14,4 @@ Merupakan kumpulan dari semua pertanyaan seputar permasalahan yang terjadi untuk
 
 3. Menu tab "Pull request"
 Setiap ada perubahan pada file repository ataupun penambahan file, riwayat perubahan tersebut akan terlihat pada "pull request".
-Lalu user yang melakukan perubahan pada file tersebut juga akan terlihat pada menu tab ini.
+Apabila user yang melakukan perubahan pada file tersebut maka akan terlihat pada menu tab ini.
