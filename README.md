@@ -1,8 +1,7 @@
 # Membuat aplikasi Login
 Mempelajari cara membuat halaman "Login" agar bisa masuk ke dalam halaman "Home" dari website nantinya
-==
-Berikut file yang akan dipakai
 --
+Berikut file yang akan dipakai
 *HTML*
 - index.html untuk halaman "Login"
 - home.html untuk halaman "Home"
