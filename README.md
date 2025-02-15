@@ -8,7 +8,7 @@ Beberapa file HTML.
 Beberapa file CSS.
 - login-style.css untuk mempercantik tampilan dari halaman "Login"
 - home-style.css untuk mempercantik tampilan dari halaman "Home"
---
+
 Beberapa file JavaScript.
 - login-script.js untuk menjalankan perintah "email" dan "password" sesuai dengan perintah yang ada pada halaman Login
 - _init.js untuk memunculkan dan menghilangkan popup peringatan pada halaman Login
