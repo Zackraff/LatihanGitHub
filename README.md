@@ -2,12 +2,12 @@
 Mempelajari cara membuat halaman "Login" agar bisa masuk ke dalam halaman "Home" dari website nantinya
 --
 Berikut file yang akan dipakai
-*HTML*
+*Beberapa file HTML.*
 - index.html untuk halaman "Login"
 - home.html untuk halaman "Home"
-*CSS*
+*Beberapa file CSS.*
 - login-style.css untuk mempercantik tampilan dari halaman "Login"
 - home-style.css untuk mempercantik tampilan dari halaman "Home"
-*JavaScript*
+*Beberapa file JavaScript.*
 - login-script.js untuk menjalankan perintah "email" dan "password" sesuai dengan perintah yang ada pada halaman Login
 - _init.js untuk memunculkan dan menghilangkan popup peringatan pada halaman Login
