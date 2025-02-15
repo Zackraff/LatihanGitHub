@@ -1,17 +1,14 @@
-# LatihanGitHub
-Mempelajari atau memahami fitur-fitur pada GitHub
-
-1. Detail File Repository
-Merupakan detail berupa daftar beberapa file yang ada pada repository itu sendiri.
-Pada detail dari repository tersebut terdapat menu "Code" yang memiliki beberapa pilihan menu di dalamnya.
-Seperti:
-- Alamat link untuk melakukan clone.
-- Mengambil repository menggunakan GitHub Dekstop.
-- Download repository dalam bentuk file zip.
-
-2. Menu tab "Issues"
-Merupakan kumpulan dari semua pertanyaan seputar permasalahan yang terjadi untuk mengajukan pertanyaan di dalam "issues" tersebut.
-
-3. Menu tab "Pull request"
-Setiap ada perubahan pada file repository ataupun penambahan file, riwayat perubahan tersebut akan terlihat pada "pull request".
-Apabila user yang melakukan perubahan pada file tersebut maka akan terlihat pada menu tab ini.
+# Membuat aplikasi Login
+Mempelajari cara membuat halaman "Login" agar bisa masuk ke dalam halaman "Home" dari website nantinya
+==
+Berikut file yang akan dipakai
+--
+*HTML*
+- index.html untuk halaman "Login"
+- home.html untuk halaman "Home"
+*CSS*
+- login-style.css untuk mempercantik tampilan dari halaman "Login"
+- home-style.css untuk mempercantik tampilan dari halaman "Home"
+*JavaScript*
+- login-script.js untuk menjalankan perintah "email" dan "password" sesuai dengan perintah yang ada pada halaman Login
+- _init.js untuk memunculkan dan menghilangkan popup peringatan pada halaman Login
